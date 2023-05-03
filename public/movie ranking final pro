@@ -1,0 +1,13 @@
+<!-- Write your code below -->
+<h1>The Best Movies According to Janeive</h1>
+<h2>My top three movies of all-time.</h2>
+<hr />
+<h3>Rush Hour 1</h3>
+<img src="../assets/images/Rush hour 1.jpg" width="200"/>
+<p>This is my favorite action comedy movie. <br />great scripting, great acting and an excellent cast</p>
+<h3>Deliver Us from Eva</h3>
+<img src="../assets/images/Deliver us from eva.jpeg" width="200"/>
+<p> This is my favorite drama movie.<br /> This movie is an extremely funny and predictable <br /> romantic comedy </b>that i have easily seen more than 15 times.  
+<h3>Maid in Manhattan</h3>
+<img src="../assets/images/maid in manhattan .jpeg" width="200" />
+<P>This is my favorite romantic movie. <br /> It is funny and age appropriate for the entire family</P>
